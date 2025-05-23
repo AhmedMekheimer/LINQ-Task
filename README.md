@@ -1,1 +1,1 @@
-Solving 20 Linq Queries in the pdf using Linq Functions in C#
+Solving 20 LINQ Queries in the pdf using LINQ Functions in C#
